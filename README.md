@@ -1,2 +1,2 @@
-# OS_Project
+# OS Project
 Operating System Assignment
